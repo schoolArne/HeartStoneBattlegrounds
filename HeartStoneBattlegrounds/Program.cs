@@ -40,6 +40,8 @@ namespace HeartStoneBattlegrounds
             minionPlayerB.DoeAttack(minionPlayerB);
             Console.WriteLine(minionPlayerA.ActualHealth);
 
+
+
             Console.SetCursorPosition(0, Console.WindowHeight);
             Console.ReadLine();
         }
